@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on developing my coding skills and growing my knowledge on software technologies.
-- 🌱 I’m currently learning new coding languages for future implementation in front end and back end development.
+- 🔭 I’m currently working on developing my coding skills and growing my knowledge of software technologies.
+- 🌱 I’m currently learning new coding languages for future implementation in front-end and back-end development.
 - 👯 I’m looking to collaborate on beginner projects to sharpen my skills in javascript and other coding languages.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
